@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is [Your Name], and I am currently learning how to use GitHub for version control and collaboration. I am interested in building my technical skills and understanding how real-world software projects are managed.
+
+Through this course, I hope to become confident in using Git and GitHub to manage projects, collaborate with others, and track changes efficiently.
